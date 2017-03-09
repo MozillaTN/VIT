@@ -11,19 +11,19 @@ Come join us this March at the Vellore Campus!
  
 ###    Organization Structure:
  
-* vMozilla
+_  | vMozilla
   
-  * Campus Clubs Program
+_ _  | Campus Clubs Program
     
-    * vMozilla : VIT Chapter, Vellore  | @ University Campus | 
-      
-      * Club Lead   
+_ _ _  | vMozilla : VIT Chapter, Vellore  | @ University Campus | 
+    
+_ _ _ _  | Club Lead   
         
-        * Executives  
+_ _ _ _ _ | Executives  
           
-          * Core-Committee *
-            
-            * Volunteer Contributors *
+_ _ _ _ _ _ _ | Core-Committee *
+            
+_ _ _ _ _ _ _ _ | Volunteer Contributors *
              
            
          
