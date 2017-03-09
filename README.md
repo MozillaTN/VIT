@@ -11,16 +11,10 @@ Come join us this March at the Vellore Campus!
  
 ###    Organization Structure:
  
-*  Mozilla *
-   
- 
-  *  Campus Clubs Program *
+*  Mozilla
+  * Campus Clubs Program *
   
-  *  
-  
-  *
-  
-  *   vMozilla * 
+  * *   vMozilla * 
     
     *   
     
@@ -36,16 +30,11 @@ Come join us this March at the Vellore Campus!
        
        *  
           
-          * Executives  *
-          
-          *  
-          
-          *
-          
-            *  Core-Committee *
+          * Executives  
+          
+    Core-Committee *
             
             *  
-            
             *  Volunteer Contributors *
              
            
