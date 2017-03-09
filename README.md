@@ -10,20 +10,27 @@ Come join us this March at the Vellore Campus!
 - [x]  Digital Safety and ID/IP (Identity and Property).  
  
 ###    Organization Structure:
- 
+
+
 _  | vMozilla
   
+  
 _ _  | Campus Clubs Program
     
+    
 _ _ _  | vMozilla : VIT Chapter, Vellore  | @ University Campus | 
     
+    
 _ _ _ _  | Club Lead   
         
+        
 _ _ _ _ _ | Executives  
           
-_ _ _ _ _ _ _ | Core-Committee *
+          
+_ _ _ _ _ _ _ | Core-Committee 
             
-_ _ _ _ _ _ _ _ | Volunteer Contributors *
+            
+_ _ _ _ _ _ _ _ | Volunteer Contributors 
              
            
          
