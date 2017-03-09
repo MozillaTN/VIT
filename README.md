@@ -2,8 +2,39 @@
 ## Empowering All.
  
 Come join us this March at the Vellore Campus!
-
-
+ 
+ 
+###    Club Manifesto. 
+ 
+- [x]  To educate everyone about the scope of knowledge with simple internet access.
+- [x]  FREE and OPEN Source SOFTWARE revolutions.
+- [x]  Digital Safety and ID/IP (Identity and Property)
+ 
+ ###    Organization Structure:
+ 
+ *  Mozilla 
+   *  
+   *  Campus Clubs Program
+   *  
+   *
+     *   vMozilla 
+     *   
+     *  
+       *   vMozilla : VIT Chapter, Vellore  | @ University Campus | 
+       *  
+       *   
+         *  Club Lead 
+         *  
+           * Executives  
+           *  
+           *  Core-Committee 
+           *  
+             *  Volunteer Contributors 
+             
+           
+         
+ 
+ 
 ----
  
 ######  Footer  /  Links 
