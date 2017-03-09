@@ -10,9 +10,9 @@ Come join us this March at the Vellore Campus!
 - [x]  FREE and OPEN Source SOFTWARE revolutions.
 - [x]  Digital Safety and ID/IP (Identity and Property)
  
- ###    Organization Structure:
+###    Organization Structure:
  
- *  Mozilla 
+*  Mozilla 
    *  
    *  Campus Clubs Program
    *  
@@ -27,8 +27,9 @@ Come join us this March at the Vellore Campus!
          *  
            * Executives  
            *  
-           *  Core-Committee 
-           *  
+           *
+             *  Core-Committee 
+             *  
              *  Volunteer Contributors 
              
            
