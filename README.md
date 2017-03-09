@@ -1,18 +1,20 @@
 # vMozilla 
-## Empowering All.
+### Empowering All.
  
 Come join us this March at the Vellore Campus!
  
  
-###    Club Manifesto.  
+##    Club Manifesto.  
 - [x]  To educate everyone about the scope of knowledge with simple internet access. 
 - [x]  FREE and OPEN Source SOFTWARE revolutions.  
 - [x]  Digital Safety and ID/IP (Identity and Property).  
  
  
-###    Organization Structure:
+##    Organization Structure:
 
-
+Mozilla.org
+ 
+ 
 _  | vMozilla
   
   
