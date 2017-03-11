@@ -1,5 +1,5 @@
 # vMozilla 
-### Empowering All.
+## Empowering All.
  
 Come join us this March at the Vellore Campus!
  
@@ -53,3 +53,24 @@ College website for Vellore Institute of Technology, Vellore.
 ###### or if the build fails, refer to the original source:
 ## [itsN1X/MozillaTN-VIT](https://itsn1x.github.io/MozillaTN-VIT/) [![ghit.me](https://ghit.me/badge.svg?repo=itsn1x/MozillaTN-VIT)](https://ghit.me/repo/itsn1x/MozillaTN-VIT)
  Check  out @vMozilla for more !
+
+
+
+
+ 
+----
+ 
+######  based on .git / .yaml 
+
+----
+
+
+
+ 
+----
+
+∆ ∆ ∆ ∆ ∆ ∆
+ 
+###  Developed & Deployed by [itsN1X](http://N1X.website)
+
+----
