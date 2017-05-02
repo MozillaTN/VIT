@@ -15,10 +15,7 @@ Come join us this March at the Vellore Campus!
 Mozilla.org
  
  
-_  | vMozilla
-  
-  
-_ _  | Campus Clubs Program
+_  | vMozilla _  | Campus Clubs Program
     
     
 _ _ _  | vMozilla : VIT Chapter, Vellore  | @ University Campus | 
