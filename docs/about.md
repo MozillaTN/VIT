@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: About
-title: About MozillaTN ClubName
+title: About vMozilla
 permalink: /about/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
@@ -24,4 +24,4 @@ Bleed. Flow. And remember to code.
 
 *Let’s get rid of the asterixes.*
 
-Buckle up for your journey into the world of open source.
+#### Buckle up for your journey into the world of open source.
