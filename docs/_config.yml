@@ -10,9 +10,10 @@ title: vMozilla
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Events
 
-description: vMozilla is club under MozillaTN community actively contributing to various contribution of mozilla.
+description: > # ss
+vMozilla is club under MozillaTN community actively contributing to various contribution of mozilla.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/vMozila" # the subpath of your site, e.g. /blog
 url: https://mozillatn.github.io/VIT 
 
 domain_name: 'http://mozillatn.github.io'
