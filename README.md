@@ -27,8 +27,9 @@ FirefoxOS (Apps)
 * [2015](https://wiki.mozilla.org/Firefox_Club_VIT) CC Tejaswini S
 
 ###### Other Webpages
-* [2016 - Clubbing](https://https://mozillafirefoxclubvit.wordpress.com/)
-* [2016 - (past) Summary](https://mfcvit.github.io/#past)
+* [2014 - Firefox Apps](https://mozillavit.blogspot.com/)
+* [2016 - Clubbing](https://mozillafirefoxclubvit.wordpress.com/)
+* [2018 - (past) Summary](https://mfcvit.github.io/#past)
 
 ----
 
